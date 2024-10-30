@@ -34,7 +34,7 @@ O sistema controla a irrigação com base nos seguintes parâmetros:
 
 ## Demonstração em Vídeo
 O funcionamento completo do projeto pode ser visualizado no vídeo a seguir:
-[Link do Vídeo de Demonstração](https://www.youtube.com/watch?v=SEU_LINK_AQUI) <!-- Substitua pelo link do seu vídeo -->
+[Link do Vídeo](https://youtu.be/6tPA6mGJSYA) <!-- Substitua pelo link do seu vídeo -->
 
 ## Como Executar
 1. Clone o repositório em sua máquina local.
