@@ -1,5 +1,4 @@
-# fase3
-# Sistema de Irrigação Automatizado e Inteligente
+# Sistema de Irrigação Automatizado e Inteligente (Fase 3)
 
 ## Descrição
 Este projeto visa desenvolver um sistema de irrigação automatizado e inteligente para a empresa FarmTech Solutions. O sistema utiliza sensores para monitorar a umidade do solo, os níveis de nutrientes fósforo (P) e potássio (K), e o nível de pH, utilizando um sensor LDR. O objetivo é otimizar a irrigação agrícola de acordo com os dados coletados.
